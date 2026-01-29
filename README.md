@@ -6,7 +6,7 @@
 1. [Features](#Features)
 2. [SPS30 connections](#sps30_connections)
 3. [Examples](#Examples) <br>
-    2.1 [Start/stop continuous measurement](#start_stop_measurement) <br>
+    3.1 [Start/stop continuous measurement](#start_stop_measurement) <br>
 4. [Notes](#Notes)
 5. [License](#license)
 
