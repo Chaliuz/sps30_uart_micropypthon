@@ -4,10 +4,11 @@
 
 ## Table of Contents
 1. [Features](#Features)
-2. [Examples](#Examples) <br>
+2. [SPS30 connections](#sps30_connections)
+3. [Examples](#Examples) <br>
     2.1 [Start/stop continuous measurement](#start_stop_measurement) <br>
-3. [Notes](#Notes)
-3. [License](#license)
+4. [Notes](#Notes)
+5. [License](#license)
 
 
 ## Features:<a name="Features"></a>
@@ -29,6 +30,10 @@ quality using laser scattering. Detects fine particles such
 as PM1.0, PM2.5, PM4 and PM1O.
 ```
 
+
+## SPS30 connections:<a name="sps30_connections"></a>
+
+![sps connections](images/sps_connections.png)
 
 ## Examples:<a name="Examples"></a>
 
