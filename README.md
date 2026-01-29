@@ -2,6 +2,9 @@
 
 ![image](images/sps30_photo.jpg)
 
+Youtube video explanation (in spanish):
+https://youtu.be/8rNOCqeNsJs
+
 ## Table of Contents
 1. [Features](#Features)
 2. [SPS30 connections](#sps30_connections)
